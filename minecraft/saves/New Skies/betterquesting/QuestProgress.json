@@ -4330,11 +4330,26 @@
     },
     "257:10": {
       "questID:3": 257,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba",
+          "timestamp:4": 1181813
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
@@ -6391,8 +6406,17 @@
       "completed:9": {},
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+            }
+          },
           "index:3": 2,
           "taskID:8": "bq_standard:retrieval"
         },
@@ -12137,17 +12161,25 @@
     },
     "854:10": {
       "questID:3": 854,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba",
+          "timestamp:4": 1230479
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+          },
           "userProgress:9": {
             "0:10": {
               "data:9": {
-                "0:3": 0,
+                "0:3": 1,
                 "1:3": 15,
                 "2:3": 2,
-                "3:3": 0
+                "3:3": 8
               },
               "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
             }
