@@ -11,13 +11,13 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:dtkobida.aternos.me:53360
 lang:en_us
 chatVisibility:0
 chatColors:true
