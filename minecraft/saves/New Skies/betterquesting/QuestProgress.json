@@ -1429,11 +1429,25 @@
     },
     "41:10": {
       "questID:3": 41,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba",
+          "timestamp:4": 1674735
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
-          "userProgress:9": {},
+          "completeUsers:9": {
+            "0:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+          },
+          "userProgress:9": {
+            "0:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "58850699-f7b0-4bc6-b535-887545ec56ba"
+            }
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:retrieval"
         }
