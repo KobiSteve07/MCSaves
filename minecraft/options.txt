@@ -17,7 +17,7 @@ ao:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:dtkobida.aternos.me:53360
+lastServer:72.49.53.239
 lang:en_us
 chatVisibility:0
 chatColors:true
